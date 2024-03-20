@@ -2,10 +2,6 @@
 import { RouterLink, RouterView } from 'vue-router'
 import HelloWorld from './components/HelloWorld.vue'
 import * as Hackle from './hackle.js'
-
-Hackle.onReady(()=>{
-  
-})
 </script>
 
 <template>
